@@ -1,0 +1,23 @@
+NOTE WELL:
+
+    This is a *MIRROR* of the OpenSSH CVS repo at:
+        anoncvs@anoncvs.mindrot.org:/cvs
+
+NOTE WELL:
+
+    As of 2013-07-19 this mirror is NOT being maintained up to date with
+    its CVS upstream.
+
+This mirror was created on 2013-07-19 using git cvsimport.  I'm not yet
+sure how to gateway subsequent updates to the CVS repo into this git
+repo, but I'd like to provide that service.  -Nico
+
+
+The original OpenSSH README has been renamed to README.original.
+
+
+I provide this mirror with no guarantees, no warrantees, no nothing.
+
+My branches will be named nico-*.  Do not use them without reviewing
+them, and in all case you should check that the based for any of my
+patches matches the content found in the OpenSSH repo for that base.
